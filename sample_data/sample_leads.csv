@@ -1,0 +1,17 @@
+name,email,company,website,job_title,industry,notes
+Aarav Mehta,aarav@technovalabs.com,TechNova Labs,https://technovalabs.com,VP of Growth & Enterprise Sales,B2B SaaS,Fast-growing enterprise software firm expanding outbound team
+Sophia Chen,sophia@apexcloud.io,Apex Cloud Solutions,https://apexcloud.io,Chief Executive Officer,Cloud Infrastructure,Series B startup actively hiring account executives
+Marcus Vance,marcus.vance@quantumscale.ai,QuantumScale AI,https://quantumscale.ai,Head of Business Development,AI & Data Analytics,Looking for outbound AI qualification workflows
+Elena Rostova,elena@nexustech.co,NexusTech Systems,https://nexustech.co,Director of Revenue Operations,Cybersecurity,Interested in automated lead scoring and email personalization
+David Miller,david@bluewavemfg.com,BlueWave Manufacturing,https://bluewavemfg.com,Operations Manager,Industrial Manufacturing,Traditional manufacturing business with limited digital presence
+Priya Sharma,priya@solarisenergy.org,Solaris Clean Energy,https://solarisenergy.org,VP of Commercial Sales,Renewable Energy,Expanding regional sales operations
+Liam O'Connor,liam@vanguardfintech.com,Vanguard Fintech,https://vanguardfintech.com,Chief Commercial Officer,Fintech & Payments,Scaling enterprise sales reps and SDR team
+Chloe Dubois,chloe@luminahealth.io,Lumina Health,https://luminahealth.io,Head of Marketing,Digital Health,Healthcare SaaS provider with recent product expansion
+Hiroshi Tanaka,hiroshi@zenithrobotics.com,Zenith Robotics,https://zenithrobotics.com,VP of Sales,Robotics & Automation,Industrial robotics company targeting B2B manufacturers
+Isabella Rossi,isabella@strataworks.net,Strata Works,https://strataworks.net,Founder & CEO,Design Services,Boutique design firm with 5 employees
+James Wilson,james@technovalabs.com,TechNova Labs,https://technovalabs.com,Senior SDR,B2B SaaS,Duplicate email domain test
+INVALID_NO_EMAIL,,Broken Lead LLC,https://brokenlead.com,Manager,Retail,Invalid row missing email
+Malformed Email,bad-email-format,Bad Format Inc,https://badformat.com,CTO,Software,Invalid email format test
+Invalid Website,test@invalidweb.com,No Web Corp,not-a-valid-url,VP Sales,Consulting,Invalid website format test
+Noah Patel,noah@hyperionlogistics.com,Hyperion Logistics,https://hyperionlogistics.com,Chief Operating Officer,Supply Chain,Expanding regional hub and outbound logistics
+Olivia Smith,olivia@orionadvisory.com,Orion Business Advisory,https://orionadvisory.com,Managing Partner,Management Consulting,Mid-market consultancy looking for outbound acceleration
