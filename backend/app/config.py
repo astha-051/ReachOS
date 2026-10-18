@@ -35,7 +35,9 @@ class Settings(BaseSettings):
     CORS_ORIGINS: List[str] = [
         "http://localhost:3000",
         "http://127.0.0.1:3000",
-        "http://localhost:8000"
+        "http://localhost:8000",
+        "https://reach-8ptiuuoxk-astha-051.vercel.app",
+        "https://reach-os-smoky.vercel.app",
     ]
 
     model_config = SettingsConfigDict(case_sensitive=True, extra="ignore")
